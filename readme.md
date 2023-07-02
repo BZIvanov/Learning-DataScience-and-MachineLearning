@@ -1,9 +1,11 @@
 # Learning Machine learning and Data science
 
-## Initial download
+## Initial environments download
 
 Google search for `anaconda download` and download the installer.
 After Anaconda was installed, search for and open the `Anaconda Navigator`.
+
+Anaconda contains all the tools we need (Python notebooks, usefull python librarires etc..)
 
 ## Working with Jupyter Notebooks
 
@@ -19,3 +21,7 @@ From the New dropdown select Python 3
 
 - Ctrl + Enter - will execute the current cell
 - Shift + Enter - will execute the current cell and go to the next cell
+
+## Projects
+
+- MovieRatings - this first project to start with after learning numpy, pandas, matplotlib and seaborn
