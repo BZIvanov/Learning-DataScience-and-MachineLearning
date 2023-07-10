@@ -25,3 +25,20 @@ From the New dropdown select Python 3
 ## Projects
 
 - MovieRatings - this first project to start with after learning numpy, pandas, matplotlib and seaborn
+
+## Table of content
+
+Consider learning/exploring the repository folders in the below order:
+
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Project-MovieRatings
+6. Machine Learning
+7. Linear Regression
+8. Data Cleaning
+9. Cross Validation
+10. Logistic Regression
+11. Project-Heartbeat
+12. K Nearest Neighbors
