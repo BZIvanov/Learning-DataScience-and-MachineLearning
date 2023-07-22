@@ -42,3 +42,15 @@ Consider learning/exploring the repository folders in the below order:
 10. Logistic Regression
 11. Project-Heartbeat
 12. K Nearest Neighbors
+13. Support Vector Machines
+14. Decision Tree
+15. Random Forests
+16. Boosting Methods
+17. Natural Language Processing
+18. K-means Clustering
+19. Project-Countries
+20. Hierarchial Clustering
+21. DBSCAN
+22. Project-FoodProducts
+23. Principal Component Analysis
+24. Project-Digits
