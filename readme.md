@@ -76,5 +76,5 @@ Consider learning/exploring the repository folders in the below order:
     - Dimensionality Reduction
       - Principal Component Analysis - model
       - Project-Digits - demo project
-  - Other
-    - Natural Language Processing - application domain. Can be approached using both supervised and unsupervised learning techniques, depending on the nature of the problem
+  - Reinforcement Learning - not included in this repository
+- Natural Language Processing - application domain. Can be approached using both supervised and unsupervised learning techniques, depending on the nature of the problem
