@@ -1,5 +1,19 @@
 # Learning Machine learning and Data science
 
+## Machine learning (ML)
+
+Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to learn and improve their performance on a specific task without being explicitly programmed. The core idea behind machine learning is to allow computers to learn from data and make predictions or decisions based on that learning.
+
+### Types of ML
+
+- Supervised learning - applied to labled dataset, the ML model predicts a value. Supervised learning algorithms can be further classified into regression and classification tasks:
+  - Regression - In regression tasks, the algorithm predicts a continuous numeric value as the output. For example, predicting the price of a house based on its features
+  - Classification - In classification tasks, the algorithm assigns input data points to predefined categories or classes. For example, classifying emails as spam or non-spam based on their content
+- Unsupervised learning - applied to unlabeled dataset, the ML model discovers possible patterns in the data. Unsupervised learning algorithms can be used for tasks such as:
+  - Clustering
+  - Dimensionality reduction
+  - Anomaly detection
+
 ## Initial environments download
 
 Google search for `anaconda download` and download the installer.
@@ -25,32 +39,42 @@ From the New dropdown select Python 3
 ## Projects
 
 - MovieRatings - this first project to start with after learning numpy, pandas, matplotlib and seaborn
+- Heartbeat
+- FoodProducts
+- Countries
+- Digits
 
 ## Table of content
 
 Consider learning/exploring the repository folders in the below order:
 
-1. Numpy
-2. Pandas
-3. Matplotlib
-4. Seaborn
-5. Project-MovieRatings
-6. Machine Learning
-7. Linear Regression
-8. Data Cleaning
-9. Cross Validation
-10. Logistic Regression
-11. Project-Heartbeat
-12. K Nearest Neighbors
-13. Support Vector Machines
-14. Decision Tree
-15. Random Forests
-16. Boosting Methods
-17. Natural Language Processing
-18. K-means Clustering
-19. Project-Countries
-20. Hierarchial Clustering
-21. DBSCAN
-22. Project-FoodProducts
-23. Principal Component Analysis
-24. Project-Digits
+- Working and visualisation of data
+  - Numpy - library
+  - Pandas - library
+  - Matplotlib - library
+  - Seaborn - library
+  - Project-MovieRatings - demo project
+- Machine Learning
+  - Supervised Learning
+    - Linear Regression - model
+    - Feature Engineering - data preparation process
+    - Cross Validation - performance technique
+    - Logistic Regression - model
+    - Project-Heartbeat - demo project
+    - K Nearest Neighbors - model
+    - Support Vector Machines - model
+    - Decision Trees - model
+    - Random Forest - model
+    - Boosting models (Adaptive and Gradient Boosting) - model
+  - Unsupervised Learning
+    - Clustering Algorithms
+      - K-means Clustering - model
+      - Project-Countries - demo project
+      - Hierarchial Clustering - model
+      - DBSCAN - model
+      - Project-FoodProducts - demo project
+    - Dimensionality Reduction
+      - Principal Component Analysis - model
+      - Project-Digits - demo project
+  - Other
+    - Natural Language Processing - application domain. Can be approached using both supervised and unsupervised learning techniques, depending on the nature of the problem
