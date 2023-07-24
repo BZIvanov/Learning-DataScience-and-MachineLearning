@@ -54,6 +54,7 @@ From the New dropdown select Python 3
   - Project-MovieRatings - demo project
 - Machine Learning
   - Supervised Learning
+    - Gradient Descent - optimization algorithm
     - Linear Regression - model
     - Feature Engineering - data preparation process
     - Cross Validation - performance technique
