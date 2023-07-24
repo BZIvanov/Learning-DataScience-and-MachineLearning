@@ -52,6 +52,7 @@ From the New dropdown select Python 3
   - Matplotlib - library
   - Seaborn - library
   - Project-MovieRatings - demo project
+  - Data Normalization - preprocessing step
 - Machine Learning
   - Supervised Learning
     - Gradient Descent - optimization algorithm
