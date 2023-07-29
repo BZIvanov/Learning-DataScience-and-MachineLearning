@@ -38,6 +38,12 @@ where:
 - ${b_n}$ - slope coefficient n
 - ${x_n}$ - independent variable n
 
+## Polynomial Linear Regression
+
+### Equation
+
+$${\hat{y} = {b_0} + {b_1}{x_1} + {b_2}{x^2_1} + ... + {b_n}{x^n_1}}$$
+
 ## Evaluation metrics
 
 Below are the three most common evaluation metrics for regression problems:
