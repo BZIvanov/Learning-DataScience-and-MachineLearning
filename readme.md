@@ -57,6 +57,7 @@ From the New dropdown select Python 3
   - Supervised Learning
     - Gradient Descent - optimization algorithm
     - Linear Regression - model
+    - Support Vector Regression - model
     - Feature Engineering - data preparation process
     - Cross Validation - performance technique
     - Logistic Regression - model
