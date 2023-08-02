@@ -46,6 +46,8 @@ $${\hat{y} = {b_0} + {b_1}{x_1} + {b_2}{x^2_1} + ... + {b_n}{x^n_1}}$$
 
 ## Evaluation metrics
 
+Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) are common evaluation metrics used in machine learning to assess the performance of regression models.
+
 Below are the three most common evaluation metrics for regression problems:
 
 **Mean Absolute Error** (MAE) is the mean of the absolute value of the errors:
@@ -67,6 +69,8 @@ Comparing these metrics:
 - **RMSE** is even more popular than MSE, because RMSE is interpretable in the "y" units.
 
 All of these are **loss functions**, because we want to minimize them. They all measure the differences between the predicted values and the actual (ground truth) values of the target variable. Lower values of these metrics indicate better model performance.
+
+In summary, MAE, MSE, and RMSE play a crucial role in comparing and selecting the best regression model for a given dataset, but they should be used in conjunction with other evaluation methods and domain knowledge to make well-informed decisions.
 
 ## Regularization
 
